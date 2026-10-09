@@ -1,0 +1,17 @@
+Core/Src/main.c
+Core/Src/stm32h7xx_it.c
+Core/Src/system_stm32h7xx.c
+Drivers/UART/uart_serial.c
+Drivers/TFT/tft_display.c
+Drivers/TFT/tft_init.c
+Drivers/Font/font_8x16.c
+Drivers/USB/usb_host_keyboard.c
+Protocol/protocol.c
+Tasks/serial_task.c
+Tasks/keyboard_task.c
+Tasks/display_task.c
+FreeRTOS/tasks.c
+FreeRTOS/queue.c
+FreeRTOS/list.c
+FreeRTOS/timers.c
+FreeRTOS/portable/RVDS/ARM_CM7/port.c
